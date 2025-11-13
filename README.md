@@ -1,5 +1,5 @@
 # Elocuencias_Save
-Elocuencias es una plataforma digital que permite a usuarios de todas las edades crear, gestionar y compartir su propia radio en línea. Su enfoque está especialmente orientado a la comunidad educativa, facilitando la creación de contenidos sonoros en entornos escolares y académicos.
+Elocuencias is a digital platform that allows all users to, create, control and share their own radio online. The focus of this app is for the educational comunity, simplifying the creation of sound contents in academics and schoolarly environments.
 
-Esta es básicamente un calco de la aplicación que estoy desarrollando para la empresa DPG Systems SL, Elocuencias.
-Iré actualizando cada avance en este repositorio aunque no cuente con el proyecto, las Issues y los Sprints definidos.
+This repository contains a working representation of the production application, mirroring its core functionality and structure.
+
